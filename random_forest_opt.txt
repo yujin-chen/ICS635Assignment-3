@@ -1,0 +1,229 @@
+[I 2025-03-10 23:45:49,107] A new study created in memory with name: no-name-30f4a6df-0fa4-4284-b970-d6c5c3cf1889
+[I 2025-03-10 23:47:38,773] Trial 0 finished with value: 0.7490609598375054 and parameters: {'n_estimators': 195, 'max_depth': 5, 'min_samples_split': 10, 'min_samples_leaf': 4}. Best is trial 0 with value: 0.7490609598375054.
+[I 2025-03-10 23:53:40,532] Trial 1 finished with value: 0.7871510141813363 and parameters: {'n_estimators': 464, 'max_depth': 13, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-10 23:57:02,911] Trial 2 finished with value: 0.7856239068827368 and parameters: {'n_estimators': 328, 'max_depth': 12, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-10 23:58:01,349] Trial 3 finished with value: 0.775798353270841 and parameters: {'n_estimators': 122, 'max_depth': 9, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:00:17,780] Trial 4 finished with value: 0.7588381983552607 and parameters: {'n_estimators': 414, 'max_depth': 6, 'min_samples_split': 9, 'min_samples_leaf': 5}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:01:33,803] Trial 5 finished with value: 0.7823232314939765 and parameters: {'n_estimators': 132, 'max_depth': 11, 'min_samples_split': 4, 'min_samples_leaf': 1}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:05:53,952] Trial 6 finished with value: 0.7802696985648447 and parameters: {'n_estimators': 493, 'max_depth': 10, 'min_samples_split': 10, 'min_samples_leaf': 2}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:09:33,019] Trial 7 finished with value: 0.7806851178015541 and parameters: {'n_estimators': 415, 'max_depth': 10, 'min_samples_split': 10, 'min_samples_leaf': 4}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:10:42,799] Trial 8 finished with value: 0.7837234459535173 and parameters: {'n_estimators': 114, 'max_depth': 12, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:11:41,462] Trial 9 finished with value: 0.7813203814215666 and parameters: {'n_estimators': 103, 'max_depth': 11, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 1 with value: 0.7871510141813363.
+[I 2025-03-11 00:15:25,530] Trial 10 finished with value: 0.788811049299302 and parameters: {'n_estimators': 286, 'max_depth': 17, 'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 10 with value: 0.788811049299302.
+[I 2025-03-11 00:19:16,638] Trial 11 finished with value: 0.7896432641130243 and parameters: {'n_estimators': 280, 'max_depth': 19, 'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:22:54,256] Trial 12 finished with value: 0.7894333148838385 and parameters: {'n_estimators': 265, 'max_depth': 19, 'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:26:10,369] Trial 13 finished with value: 0.7893780958588079 and parameters: {'n_estimators': 242, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:30:27,048] Trial 14 finished with value: 0.789350569706666 and parameters: {'n_estimators': 330, 'max_depth': 17, 'min_samples_split': 6, 'min_samples_leaf': 1}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:33:26,956] Trial 15 finished with value: 0.7890583054172232 and parameters: {'n_estimators': 222, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:37:08,006] Trial 16 finished with value: 0.789096801315693 and parameters: {'n_estimators': 282, 'max_depth': 17, 'min_samples_split': 6, 'min_samples_leaf': 1}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:41:15,370] Trial 17 finished with value: 0.7882533413661477 and parameters: {'n_estimators': 358, 'max_depth': 14, 'min_samples_split': 3, 'min_samples_leaf': 2}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:43:21,911] Trial 18 finished with value: 0.7877213006595494 and parameters: {'n_estimators': 173, 'max_depth': 15, 'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 11 with value: 0.7896432641130243.
+[I 2025-03-11 00:46:43,198] Trial 19 finished with value: 0.7896903761816804 and parameters: {'n_estimators': 252, 'max_depth': 19, 'min_samples_split': 3, 'min_samples_leaf': 2}. Best is trial 19 with value: 0.7896903761816804.
+[I 2025-03-11 00:51:41,237] Trial 20 finished with value: 0.790165015845145 and parameters: {'n_estimators': 380, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 20 with value: 0.790165015845145.
+[I 2025-03-11 00:56:37,754] Trial 21 finished with value: 0.790165015845145 and parameters: {'n_estimators': 380, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 20 with value: 0.790165015845145.
+[I 2025-03-11 01:01:23,170] Trial 22 finished with value: 0.7893654247654756 and parameters: {'n_estimators': 384, 'max_depth': 16, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 20 with value: 0.790165015845145.
+[I 2025-03-11 01:06:57,104] Trial 23 finished with value: 0.7904204422274825 and parameters: {'n_estimators': 428, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 23 with value: 0.7904204422274825.
+[I 2025-03-11 01:12:10,703] Trial 24 finished with value: 0.7908762851532882 and parameters: {'n_estimators': 410, 'max_depth': 18, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 24 with value: 0.7908762851532882.
+[I 2025-03-11 01:17:24,142] Trial 25 finished with value: 0.7890610644207887 and parameters: {'n_estimators': 442, 'max_depth': 15, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 24 with value: 0.7908762851532882.
+[I 2025-03-11 01:22:36,329] Trial 26 finished with value: 0.7895156417690685 and parameters: {'n_estimators': 427, 'max_depth': 16, 'min_samples_split': 7, 'min_samples_leaf': 3}. Best is trial 24 with value: 0.7908762851532882.
+[I 2025-03-11 01:28:58,074] Trial 27 finished with value: 0.7911626828754026 and parameters: {'n_estimators': 498, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 01:34:33,022] Trial 28 finished with value: 0.7883496715500982 and parameters: {'n_estimators': 488, 'max_depth': 14, 'min_samples_split': 7, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 01:36:40,155] Trial 29 finished with value: 0.7499483277533582 and parameters: {'n_estimators': 459, 'max_depth': 5, 'min_samples_split': 6, 'min_samples_leaf': 5}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 01:42:53,415] Trial 30 finished with value: 0.7904470162369952 and parameters: {'n_estimators': 498, 'max_depth': 18, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 01:49:13,785] Trial 31 finished with value: 0.7909629167049219 and parameters: {'n_estimators': 497, 'max_depth': 20, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 01:55:35,971] Trial 32 finished with value: 0.7909755662007141 and parameters: {'n_estimators': 499, 'max_depth': 20, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:01:29,420] Trial 33 finished with value: 0.7906288260575148 and parameters: {'n_estimators': 471, 'max_depth': 20, 'min_samples_split': 8, 'min_samples_leaf': 5}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:07:16,983] Trial 34 finished with value: 0.7908207361077769 and parameters: {'n_estimators': 455, 'max_depth': 20, 'min_samples_split': 9, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:13:21,093] Trial 35 finished with value: 0.7906279517880594 and parameters: {'n_estimators': 472, 'max_depth': 19, 'min_samples_split': 9, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:15:52,879] Trial 36 finished with value: 0.7660580033429267 and parameters: {'n_estimators': 398, 'max_depth': 7, 'min_samples_split': 7, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:21:18,225] Trial 37 finished with value: 0.7895137978943862 and parameters: {'n_estimators': 446, 'max_depth': 16, 'min_samples_split': 8, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:27:20,124] Trial 38 finished with value: 0.790738684857023 and parameters: {'n_estimators': 475, 'max_depth': 19, 'min_samples_split': 9, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:31:23,274] Trial 39 finished with value: 0.7904057747457045 and parameters: {'n_estimators': 323, 'max_depth': 20, 'min_samples_split': 7, 'min_samples_leaf': 5}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:37:27,958] Trial 40 finished with value: 0.790494861496705 and parameters: {'n_estimators': 495, 'max_depth': 17, 'min_samples_split': 10, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:43:13,005] Trial 41 finished with value: 0.7907685690572963 and parameters: {'n_estimators': 448, 'max_depth': 20, 'min_samples_split': 9, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:49:16,967] Trial 42 finished with value: 0.7906163849914893 and parameters: {'n_estimators': 478, 'max_depth': 18, 'min_samples_split': 9, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 02:55:02,240] Trial 43 finished with value: 0.7905687411480733 and parameters: {'n_estimators': 451, 'max_depth': 19, 'min_samples_split': 8, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:00:13,265] Trial 44 finished with value: 0.7905569947347307 and parameters: {'n_estimators': 414, 'max_depth': 20, 'min_samples_split': 10, 'min_samples_leaf': 5}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:06:39,525] Trial 45 finished with value: 0.7907129738776677 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 8, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:12:07,606] Trial 46 finished with value: 0.7902617749863461 and parameters: {'n_estimators': 434, 'max_depth': 18, 'min_samples_split': 6, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:15:26,951] Trial 47 finished with value: 0.7720592193633514 and parameters: {'n_estimators': 462, 'max_depth': 8, 'min_samples_split': 10, 'min_samples_leaf': 3}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:20:40,947] Trial 48 finished with value: 0.790714618076566 and parameters: {'n_estimators': 409, 'max_depth': 20, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+[I 2025-03-11 03:26:35,121] Trial 49 finished with value: 0.7904421969459897 and parameters: {'n_estimators': 480, 'max_depth': 17, 'min_samples_split': 9, 'min_samples_leaf': 4}. Best is trial 27 with value: 0.7911626828754026.
+Best trial:
+  Value:  0.7911626828754026
+  Params: 
+    n_estimators: 498
+    max_depth: 18
+    min_samples_split: 5
+    min_samples_leaf: 3
+
+
+    import optuna
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import cross_val_score, StratifiedKFold
+import numpy as np
+
+def objective(trial):
+    # Define the hyperparameter search space for RandomForestClassifier
+    params = {
+        'n_estimators': trial.suggest_int('n_estimators', 100, 500),
+        'max_depth': trial.suggest_int('max_depth', 5, 20),
+        'min_samples_split': trial.suggest_int('min_samples_split', 2, 10),
+        'min_samples_leaf': trial.suggest_int('min_samples_leaf', 1, 5),
+        'max_features': 'sqrt',
+        'random_state': 42
+    }
+    
+    # Initialize the RandomForestClassifier with the suggested parameters
+    model = RandomForestClassifier(**params, n_jobs=-1)
+    
+    # Use StratifiedKFold for cross-validation (e.g., 5 folds)
+    cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+    
+    # Compute the mean AUROC over the folds
+    auc = cross_val_score(model, X_train_processed, y_train, scoring='roc_auc', cv=cv, n_jobs=-1).mean()
+    return auc
+
+# Create an Optuna study and run the optimization for a given number of trials
+study = optuna.create_study(direction='maximize')
+study.optimize(objective, n_trials=50)
+
+# Output the best trial's results
+print("Best trial:")
+print("  Value: ", study.best_trial.value)
+print("  Params: ")
+for key, value in study.best_trial.params.items():
+    print(f"    {key}: {value}")
+
+
+[I 2025-03-11 04:18:34,303] A new study created in memory with name: no-name-7e975546-aa08-4156-ac4b-bf93e298cbf3
+[I 2025-03-11 04:25:20,954] Trial 0 finished with value: 0.790960957120895 and parameters: {'n_estimators': 509, 'max_depth': 19, 'min_samples_split': 4, 'min_samples_leaf': 2}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 04:31:12,873] Trial 1 finished with value: 0.7897078839781208 and parameters: {'n_estimators': 494, 'max_depth': 16, 'min_samples_split': 6, 'min_samples_leaf': 5}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 04:38:05,477] Trial 2 finished with value: 0.7906222283815724 and parameters: {'n_estimators': 502, 'max_depth': 20, 'min_samples_split': 6, 'min_samples_leaf': 1}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 04:44:08,216] Trial 3 finished with value: 0.7907983106795458 and parameters: {'n_estimators': 482, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 04:50:36,156] Trial 4 finished with value: 0.7906126897059467 and parameters: {'n_estimators': 516, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 04:56:56,529] Trial 5 finished with value: 0.7907594511388095 and parameters: {'n_estimators': 506, 'max_depth': 20, 'min_samples_split': 4, 'min_samples_leaf': 5}. Best is trial 0 with value: 0.790960957120895.
+[I 2025-03-11 05:03:33,236] Trial 6 finished with value: 0.7914406154412253 and parameters: {'n_estimators': 510, 'max_depth': 19, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:09:45,526] Trial 7 finished with value: 0.7906303243918552 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 7, 'min_samples_leaf': 5}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:15:43,289] Trial 8 finished with value: 0.7895149373627542 and parameters: {'n_estimators': 496, 'max_depth': 16, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:21:43,480] Trial 9 finished with value: 0.7904002861752636 and parameters: {'n_estimators': 496, 'max_depth': 17, 'min_samples_split': 7, 'min_samples_leaf': 5}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:28:34,604] Trial 10 finished with value: 0.7911627936318684 and parameters: {'n_estimators': 518, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:35:26,652] Trial 11 finished with value: 0.7911667716967262 and parameters: {'n_estimators': 519, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:42:07,260] Trial 12 finished with value: 0.7907966411785059 and parameters: {'n_estimators': 512, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:48:51,644] Trial 13 finished with value: 0.79142164148611 and parameters: {'n_estimators': 520, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 05:55:36,918] Trial 14 finished with value: 0.791203435248038 and parameters: {'n_estimators': 512, 'max_depth': 20, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:01:56,558] Trial 15 finished with value: 0.7905155591584323 and parameters: {'n_estimators': 505, 'max_depth': 18, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:08:36,099] Trial 16 finished with value: 0.7914154420992132 and parameters: {'n_estimators': 514, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:15:23,363] Trial 17 finished with value: 0.7900631883534888 and parameters: {'n_estimators': 520, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 1}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:21:39,143] Trial 18 finished with value: 0.7911156112314413 and parameters: {'n_estimators': 490, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:28:08,671] Trial 19 finished with value: 0.7910710530590171 and parameters: {'n_estimators': 508, 'max_depth': 20, 'min_samples_split': 6, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:34:48,466] Trial 20 finished with value: 0.7909541688543773 and parameters: {'n_estimators': 502, 'max_depth': 19, 'min_samples_split': 4, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:41:27,556] Trial 21 finished with value: 0.7914154420992132 and parameters: {'n_estimators': 514, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:48:08,268] Trial 22 finished with value: 0.7914036081606959 and parameters: {'n_estimators': 515, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 06:54:43,158] Trial 23 finished with value: 0.7911003549282788 and parameters: {'n_estimators': 511, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:01:24,570] Trial 24 finished with value: 0.7914023535080557 and parameters: {'n_estimators': 517, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:08:16,347] Trial 25 finished with value: 0.7912490345634299 and parameters: {'n_estimators': 520, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:16:38,374] Trial 26 finished with value: 0.791213394637259 and parameters: {'n_estimators': 514, 'max_depth': 18, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:24:21,407] Trial 27 finished with value: 0.791169506955763 and parameters: {'n_estimators': 510, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:30:53,283] Trial 28 finished with value: 0.7910259888459464 and parameters: {'n_estimators': 503, 'max_depth': 20, 'min_samples_split': 6, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:38:17,079] Trial 29 finished with value: 0.7909598345005026 and parameters: {'n_estimators': 508, 'max_depth': 19, 'min_samples_split': 4, 'min_samples_leaf': 1}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:44:55,736] Trial 30 finished with value: 0.791213394637259 and parameters: {'n_estimators': 514, 'max_depth': 18, 'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:52:25,603] Trial 31 finished with value: 0.7914154420992132 and parameters: {'n_estimators': 514, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 07:59:13,115] Trial 32 finished with value: 0.7914023535080557 and parameters: {'n_estimators': 517, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:06:00,312] Trial 33 finished with value: 0.7907388723573737 and parameters: {'n_estimators': 509, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:12:09,389] Trial 34 finished with value: 0.7909728179259705 and parameters: {'n_estimators': 480, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:18:43,968] Trial 35 finished with value: 0.7912158039409322 and parameters: {'n_estimators': 513, 'max_depth': 18, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:25:02,950] Trial 36 finished with value: 0.79140954378109 and parameters: {'n_estimators': 486, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:31:31,702] Trial 37 finished with value: 0.7910344343834819 and parameters: {'n_estimators': 505, 'max_depth': 20, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:38:15,302] Trial 38 finished with value: 0.7914023535080557 and parameters: {'n_estimators': 517, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:44:31,268] Trial 39 finished with value: 0.7897241191056017 and parameters: {'n_estimators': 507, 'max_depth': 16, 'min_samples_split': 7, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:51:13,886] Trial 40 finished with value: 0.7911048477372702 and parameters: {'n_estimators': 516, 'max_depth': 20, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 08:59:18,864] Trial 41 finished with value: 0.7914036081606959 and parameters: {'n_estimators': 515, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:06:01,684] Trial 42 finished with value: 0.7914369639084823 and parameters: {'n_estimators': 512, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:12:40,181] Trial 43 finished with value: 0.7914406154412253 and parameters: {'n_estimators': 510, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:19:18,339] Trial 44 finished with value: 0.7914369639084823 and parameters: {'n_estimators': 512, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:25:54,558] Trial 45 finished with value: 0.7907216936493725 and parameters: {'n_estimators': 500, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:32:25,887] Trial 46 finished with value: 0.7911937172431298 and parameters: {'n_estimators': 511, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:38:43,487] Trial 47 finished with value: 0.7902544501559049 and parameters: {'n_estimators': 510, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:45:28,735] Trial 48 finished with value: 0.7913301091614089 and parameters: {'n_estimators': 504, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 6 with value: 0.7914406154412253.
+[I 2025-03-11 09:51:57,133] Trial 49 finished with value: 0.7914965850091513 and parameters: {'n_estimators': 499, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 09:58:18,362] Trial 50 finished with value: 0.7911274662232453 and parameters: {'n_estimators': 499, 'max_depth': 18, 'min_samples_split': 7, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:04:41,437] Trial 51 finished with value: 0.7914322328562922 and parameters: {'n_estimators': 492, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:11:05,873] Trial 52 finished with value: 0.7914648858660812 and parameters: {'n_estimators': 494, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:17:44,751] Trial 53 finished with value: 0.7914628276379027 and parameters: {'n_estimators': 495, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:25:05,242] Trial 54 finished with value: 0.7914628276379027 and parameters: {'n_estimators': 495, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:31:36,039] Trial 55 finished with value: 0.7914628276379027 and parameters: {'n_estimators': 495, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:38:27,604] Trial 56 finished with value: 0.7904514206414837 and parameters: {'n_estimators': 496, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:44:53,826] Trial 57 finished with value: 0.7914648858660812 and parameters: {'n_estimators': 494, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:51:31,527] Trial 58 finished with value: 0.7907011756571312 and parameters: {'n_estimators': 493, 'max_depth': 20, 'min_samples_split': 6, 'min_samples_leaf': 2}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 10:57:51,380] Trial 59 finished with value: 0.7913947236552168 and parameters: {'n_estimators': 488, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 11:04:07,109] Trial 60 finished with value: 0.790702827963435 and parameters: {'n_estimators': 495, 'max_depth': 19, 'min_samples_split': 6, 'min_samples_leaf': 4}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 11:10:32,541] Trial 61 finished with value: 0.7914703570492729 and parameters: {'n_estimators': 497, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 11:16:59,004] Trial 62 finished with value: 0.7914703570492729 and parameters: {'n_estimators': 497, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 49 with value: 0.7914965850091513.
+[I 2025-03-11 11:23:25,281] Trial 63 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 11:29:51,257] Trial 64 finished with value: 0.7914703570492729 and parameters: {'n_estimators': 497, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 11:36:18,514] Trial 65 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 11:42:40,241] Trial 66 finished with value: 0.7911626828754026 and parameters: {'n_estimators': 498, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 11:49:07,373] Trial 67 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 11:55:50,563] Trial 68 finished with value: 0.7913218767867851 and parameters: {'n_estimators': 501, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:03:20,447] Trial 69 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:10:04,109] Trial 70 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:16:34,718] Trial 71 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:23:03,544] Trial 72 finished with value: 0.7914787401056272 and parameters: {'n_estimators': 500, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:29:32,384] Trial 73 finished with value: 0.7914941878548747 and parameters: {'n_estimators': 501, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:36:07,563] Trial 74 finished with value: 0.7914810867786057 and parameters: {'n_estimators': 502, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:42:35,813] Trial 75 finished with value: 0.7914965850091513 and parameters: {'n_estimators': 499, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:48:47,536] Trial 76 finished with value: 0.7907701596649476 and parameters: {'n_estimators': 499, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 5}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 12:55:16,442] Trial 77 finished with value: 0.7914965850091513 and parameters: {'n_estimators': 499, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:01:52,156] Trial 78 finished with value: 0.7911905468971863 and parameters: {'n_estimators': 498, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:08:05,120] Trial 79 finished with value: 0.7906977207842616 and parameters: {'n_estimators': 491, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 4}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:14:36,244] Trial 80 finished with value: 0.7915009646075265 and parameters: {'n_estimators': 503, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:21:07,170] Trial 81 finished with value: 0.7915009646075265 and parameters: {'n_estimators': 503, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:27:39,079] Trial 82 finished with value: 0.7915009646075265 and parameters: {'n_estimators': 503, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:34:11,173] Trial 83 finished with value: 0.7915009646075265 and parameters: {'n_estimators': 503, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:40:42,359] Trial 84 finished with value: 0.7914826554545795 and parameters: {'n_estimators': 504, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:47:15,581] Trial 85 finished with value: 0.791431467118748 and parameters: {'n_estimators': 506, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 13:53:44,974] Trial 86 finished with value: 0.7914941878548747 and parameters: {'n_estimators': 501, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:00:24,133] Trial 87 finished with value: 0.7911742503589366 and parameters: {'n_estimators': 503, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 2}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:06:50,772] Trial 88 finished with value: 0.7911705389100157 and parameters: {'n_estimators': 505, 'max_depth': 18, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:13:19,234] Trial 89 finished with value: 0.7914787401056272 and parameters: {'n_estimators': 500, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:19:50,220] Trial 90 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:26:19,189] Trial 91 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:32:44,659] Trial 92 finished with value: 0.7914705953978016 and parameters: {'n_estimators': 496, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:39:12,549] Trial 93 finished with value: 0.7914703570492729 and parameters: {'n_estimators': 497, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:45:39,718] Trial 94 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:52:07,149] Trial 95 finished with value: 0.7915014789267897 and parameters: {'n_estimators': 498, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 14:58:38,478] Trial 96 finished with value: 0.7911905468971863 and parameters: {'n_estimators': 498, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 15:04:51,019] Trial 97 finished with value: 0.7908080606784061 and parameters: {'n_estimators': 496, 'max_depth': 17, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 15:11:19,238] Trial 98 finished with value: 0.7914787401056272 and parameters: {'n_estimators': 500, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+[I 2025-03-11 15:17:45,301] Trial 99 finished with value: 0.7914490112497639 and parameters: {'n_estimators': 493, 'max_depth': 19, 'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 63 with value: 0.7915014789267897.
+Best trial:
+  AUROC:  0.7915014789267897
+    n_estimators: 498
+    max_depth: 19
+    min_samples_split: 5
+    min_samples_leaf: 3
+
+
+    def objective(trial):
+    params = {
+        'n_estimators': trial.suggest_int('n_estimators', 480, 520),
+        'max_depth': trial.suggest_int('max_depth', 16, 20),
+        'min_samples_split': trial.suggest_int('min_samples_split', 4, 7),
+        'min_samples_leaf': trial.suggest_int('min_samples_leaf', 1, 5),
+        'max_features': 'sqrt',
+        'random_state': 42
+    }
+    
+    model = RandomForestClassifier(**params, n_jobs=-1)
+    cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+    auc = cross_val_score(model, X_train_processed, y_train, scoring='roc_auc', cv=cv, n_jobs=-1).mean()
+    return auc
+
+study = optuna.create_study(direction='maximize')
+study.optimize(objective, n_trials=100)
+
+print("Best trial:")
+print("  AUROC: ", study.best_trial.value)
+for key, value in study.best_trial.params.items():
+    print(f"    {key}: {value}")
