@@ -14,7 +14,7 @@ Goal: Train model to classify high-energy particle collision events correctly.
 ## Module and Library install
 pip install
 
-    ip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost lightgbm catboost optuna
+    pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost lightgbm catboost optuna
 
 Conda install
     
